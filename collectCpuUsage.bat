@@ -1,0 +1,1 @@
+VBoxManage.exe metrics collect * CPU/Load/User
