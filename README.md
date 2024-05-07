@@ -50,10 +50,12 @@ curl -H "Host: whoami.karvounis.tutorial" http://localhost/
 - simple server with docker and nodejs image
 
 [![Video Label](http://img.youtube.com/vi/Ng98W-G2Pw4/0.jpg)](https://youtu.be/Ng98W-G2Pw4)
+
 - making docker image with Dockerfile
 
 [![Video Label](http://img.youtube.com/vi/NLJF-zoF2Ok/0.jpg)](https://youtu.be/NLJF-zoF2Ok)
 
 - Load Balancer with Traefik
+
 [![Video Label](http://img.youtube.com/vi/ddfVtTJ7wPQ/0.jpg)](https://youtu.be/ddfVtTJ7wPQ)
 
