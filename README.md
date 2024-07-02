@@ -59,3 +59,12 @@ curl -H "Host: whoami.karvounis.tutorial" http://localhost/
 
 [![Video Label](http://img.youtube.com/vi/ddfVtTJ7wPQ/0.jpg)](https://youtu.be/ddfVtTJ7wPQ)
 
+# HW3
+- read [AWS Vs Azure Vs GCP](https://www.veritis.com/blog/aws-vs-azure-vs-gcp-the-cloud-platform-of-your-choice/) and write a report
+- read [MS SLA document](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) and answer the questions
+# HW4
+- read [create-windows-virtual-machine-in-azure](https://learn.microsoft.com/ko-kr/training/modules/create-windows-virtual-machine-in-azure/) and practice
+- read [create-linux-virtual-machine-in-azure](https://docs.microsoft.com/ko-kr/learn/modules/create-linux-virtual-machine-in-azure/) and practice
+# HW5
+- read [create-load-balancer-in-azure](https://docs.microsoft.com/ko-kr/azure/load-balancer/quickstart-load-balancer-standard-public-portal?tabs=option-1-create-load-balancer-standard) and practice
+- read [azure-virtual-machine-scale-set](https://docs.microsoft.com/ko-kr/azure/virtual-machine-scale-sets/) and practice
