@@ -68,3 +68,6 @@ curl -H "Host: whoami.karvounis.tutorial" http://localhost/
 # HW5
 - read [create-load-balancer-in-azure](https://docs.microsoft.com/ko-kr/azure/load-balancer/quickstart-load-balancer-standard-public-portal?tabs=option-1-create-load-balancer-standard) and practice
 - read [azure-virtual-machine-scale-set](https://docs.microsoft.com/ko-kr/azure/virtual-machine-scale-sets/) and practice
+
+# Term project
+[Speech-to-Text service using AWS Transcribe and Lambda](https://github.com/minchoCoin/stt-service)
